@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.menu > ul {
+	background-color: gray;
+	width: 140px;
+	position: fixed;
+	left: 0;
+	z-index: 100;
+	list-style-type: none;
+	padding-left: 0;
+}
+#wrap > div {
+	margin-left: 0;
+	margin-bottom: 50px;
+}
+li {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.menu a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}

@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#pagination {
+	text-align: center;
+	align: center;
+}
+#pagination ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+#pagination li {
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}

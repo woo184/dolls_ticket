@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#wrapper {
+	display: inline-block;
+}
+#wrapper h3 {
+	margin-bottom: 20px;
+}
+#container {
+	position: absolute;
+	left: 140px;
+	width: 1140px;
+}
+#container > div {
+	padding: 20px;
+}
+#orderList {
+	border: 1px solid;
+	width: 100%;
+}
+#orderList th, #orderList td {
+	
+}
