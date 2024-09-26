@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>site</title>
+		<title>main page</title>
 		<c:import url="/WEB-INF/views/layout/head.jsp"/>
 	</head>
 	<body>
